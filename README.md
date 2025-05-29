@@ -2,10 +2,7 @@
 BIG Electroluminescent Display with Arduino UNO
 
 
-**YouTube video: XXX**
-
-**WOKWI sketch: XXX**
-
+**YouTube video: https://youtu.be/MtiuXPFYjX8**
 
 Links from the video:
 - Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
