@@ -16,6 +16,7 @@ Links from the video:
 - Creating EL display (Applied Science): https://youtu.be/Z2o_Sp2-aBo?si=RGU2vqOo4spmbs0O
 - EL wires: https://s.click.aliexpress.com/e/_opzF6Fy
 - Color EL panels: https://s.click.aliexpress.com/e/_oEVfF0a
+- PCBWay shared project: https://www.pcbway.com/project/shareproject/Electroluminescent_Display_with_Arduino_UNO_e297a322.html
 
 
 Related videos with segmented displays:
