@@ -31,7 +31,7 @@ Related videos with segmented displays:
 ![THUMB_7seg_el_display2](https://github.com/user-attachments/assets/44d8f1f0-21e1-46c0-babf-54311c62fe1c)
 
 
-
+_This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBWay! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
 
 
 Small Animations:
